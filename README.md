@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can check all about me on my personal [GitHub Page](https://laheinzen.github.io)
+
 <!--
 **laheinzen/laheinzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
